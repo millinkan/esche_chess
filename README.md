@@ -1,4 +1,4 @@
-# Esche_chess
+# Eschen_chess
 Website for Eschen_Chess Club. 
 
 A Django web application for managing a chess club with ELO ratings, member profiles, and match scheduling.
