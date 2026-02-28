@@ -1,5 +1,6 @@
 # Esche_chess
-Website for Eschen_Chess Club
+Website for Eschen_Chess Club . 
+
 A Django web application for managing a chess club with ELO ratings, member profiles, and match scheduling.
 A Website for the Eschen Chess Club with a Leader board system. The fun group do not have a website and a record of games played.
 Having a websites with a leader board will provide the club a central hub to manage members, record match results, and celebrate player milestones.
